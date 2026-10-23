@@ -1,0 +1,20 @@
+[project]
+name = "gvr-bi-report"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rahul Bolisetty", email = "rahul.bolisetty95@gmail.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.3.3",
+    "streamlit>=1.50.0",
+]
+
+[project.scripts]
+gvr-bi-report = "gvr_bi_report:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
