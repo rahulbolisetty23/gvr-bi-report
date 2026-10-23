@@ -17,6 +17,9 @@ A portfolio project on real data from GVR Cashew Merchants (dry fruits and festi
 - Tell me directly when my code or reasoning is wrong. Don't patronize.
 - Keep each session to 1–2 hours. At the end, summarize what I finished and what carries over.
 - I must be able to explain every line I commit. At the end of each week, ask me 3–5 interview-style questions.
+- At the end of each session, update PROGRESS.md (session log, skills shown, status table, draft resume
+  bullets) and the Progress section below. Only claim work that is committed. PROGRESS.md is synced to my
+  Claude app project for resume updates, so keep it accurate and free of customer data.
 
 ## What you CAN do without asking
 - Explain errors, code, and concepts.
